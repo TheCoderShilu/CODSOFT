@@ -1,2 +1,2 @@
 # CODSOFT
-Tasks of data science internship at CODSOFT
+data science internship at CODSOFT
